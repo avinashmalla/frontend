@@ -1,5 +1,5 @@
 # Front-end Project
-[Netlify](https://fep-avinashmalla.netlify.app/)
+[AWS Amplify Deployment](https://dev.d3hptztplquvpi.amplifyapp.com/)
 
 ## Requirement
 1. TypeScript and Unit testing are required in your project
