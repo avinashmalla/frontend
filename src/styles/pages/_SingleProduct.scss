@@ -1,0 +1,30 @@
+.grid--main-content{
+    width: 40em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.single-product--card {
+    // max-width: 250;
+    width: 40em;
+}
+
+.single-product--image {
+    width: 30em;
+    height: 30em;
+    align-self: center;
+    // justify-content: center;
+    // position: absolute;
+    padding: 1em;
+}
+
+.stack--buttons--singleproduct{
+    display: flex;
+    flex-direction: row;
+    // justify-content: flex-end;
+    // align-items: center;
+    padding-left: 1em;
+}
